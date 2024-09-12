@@ -9,7 +9,7 @@
   font-weight: 500;
   font-style: normal;
 }
-/* item-view css */
+
 .img-container::-webkit-scrollbar {
   display: none;
   scroll-behavior: smooth;
